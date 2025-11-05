@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Bushra!
 
-<!--
-**BushraAl-Sulami/BushraAl-Sulami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile 🧡
+I'm a **Software Engineering** student who enjoys building meaningful and user-friendly digital solutions.  
+I love exploring new technologies, learning continuously, and working on creative ideas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+- 🎓 Software Engineering student (UQU)
+- 💻 Interested in backend development & web technologies
+- 🤖 Curious about AI, automation, and smart systems
+- 🎨 Enjoy UI/UX prototyping and clean designs
+- 📚 Love learning & sharing knowledge
+
+---
+
+## 🛠 Technical Skills
+
+### 🔹 Programming
+`C#` · `Python` · `Java` · `SQL` 
+
+### 🔹 Web & Tools
+`ASP.NET` · `HTML` · `CSS` · `Bootstrap` · `Dart` . `Git` · `GitHub`
+
+### 🔹 Design
+`Figma`
+
+---
+
+
+## 📈 Current Interests
+- Backend development  
+- AI & conversational systems  
+- Web development  
+- UX improvement & prototyping  
+
+
+---
+
+## 📫 Contact
+📧 Email — **bushratalaqalsulami@gmail.com**  
+🔗 LinkedIn — www.linkedin.com/in/bushra-alsulami
+

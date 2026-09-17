@@ -7,7 +7,7 @@ I love exploring new technologies, learning continuously, and working on creativ
 ---
 
 ## 🌟 About Me
-- 🎓 Software Engineering student (UQU)
+- 🎓 Software Engineer
 - 💻 Interested in backend development & web technologies
 - 🤖 Curious about AI, automation, and smart systems
 - 🎨 Enjoy UI/UX prototyping and clean designs
